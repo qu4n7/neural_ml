@@ -1,0 +1,2 @@
+.gitignore
+_1/1_vvedenie_analiz_dataseta.pptx
